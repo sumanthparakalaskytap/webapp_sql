@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'ibmilicreport-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D216421C485F48B7B9EA335283E6FA89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC4FD21F4EE84EB1B024AD66A6BCD260 }}
